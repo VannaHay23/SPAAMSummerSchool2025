@@ -1,1 +1,1 @@
-# SPAAMSummerSchool2025
+# SPAAMSummerSchool2025Just an example repo
